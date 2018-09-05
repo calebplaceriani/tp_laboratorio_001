@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536125516 source:c:\users\emanuelplaceriani\documents\programming\utn 2018\t.p.'s\tp_laboratorio_01\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536123652 c:\users\emanuelplaceriani\documents\programming\utn 2018\t.p.'s\tp_laboratorio_01\funciones.h
+
+1536126221 source:c:\users\emanuelplaceriani\documents\programming\utn 2018\t.p.'s\tp_laboratorio_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
